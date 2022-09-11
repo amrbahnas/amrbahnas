@@ -12,7 +12,7 @@
 
 - :office: &nbsp;I’m interested in Software Engineering <img src="./assets/logos/Instabug-Logo.png" width="20"
     draggable="false"></img>
-- :seedling: &nbsp;I’m currently learning react.js & **
+- :seedling: &nbsp;I’m currently learning Frontend  & **
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
 
 <h2 align="center">
@@ -20,7 +20,7 @@
 </h2>
 <p align="center">
     <img
-        src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,nodejs,python,tensorflow,jest,postgres,git,aws&perline=8" />
+        src="https://skillicons.dev/icons?i=html,css,js,react,python,git,aws&perline=8" />
 </p>
   
 
