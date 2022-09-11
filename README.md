@@ -12,8 +12,7 @@
 
 - :office: &nbsp;I’m interested in Software Engineering <img src="./assets/logos/Instabug-Logo.png" width="20"
     draggable="false"></img>
-- :seedling: &nbsp;I’m currently react.js & **
-- :speech_balloon: &nbsp;How to reach me: Elbahnsawy.Services@gmail.com**
+- :seedling: &nbsp;I’m currently learning react.js & **
 - :mailbox: &nbsp;Ask me anything, I'm happy to help :)
 
 <h2 align="center">
