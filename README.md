@@ -19,8 +19,7 @@
     Languages and Tools
 </h2>
 <p align="center">
-    <img
-        src="https://skillicons.dev/icons?i=html,css,js,react,python,git,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,next,react,redux,firebase,git&perline=8" />
 </p>
   
 
